@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "Flavia",
+        "sobrenome": "Marinho",
+        "empresa": "Tim",
+        "pais": "Brasil",
+        "endereconumero": "Av. Maranhão, 8754",
+        "complemento": "Ap. 01",
+        "cidade": "Rio de Janeiro",
+        "estado": "Rio de Janeiro",
+        "cep": "12354051",
+        "telefone": "21999887577",
+        "email": "flamari@bol.com"
+    },
+
+    {
+        "nome": "Roberto",
+        "sobrenome": "Grama",
+        "empresa": "Amil",
+        "pais": "Brasil",
+        "endereconumero": "Rua Joaçaba, 21",
+        "complemento": "Casa 5",
+        "cidade": "Colombo",
+        "estado": "Parana",
+        "cep": "85324021",
+        "telefone": "41998998787",
+        "email": "rgrama@ig.com"
+    },
+
+    {
+        "nome": "Silvia",
+        "sobrenome": "Silva",
+        "empresa": "Gol",
+        "pais": "Brasil",
+        "endereconumero": "Rua das Azaleias, 222",
+        "complemento": "Unidade 57",
+        "cidade": "Natal",
+        "estado": "Rio Grande do Norte",
+        "cep": "66321787",
+        "telefone": "8199658744",
+        "email": "ssilva@yahoo.com"
+    }
+]
